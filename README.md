@@ -1,2 +1,2 @@
 # Profile page
- Web Page to introduce my self
+ Web Page to introduce myself
