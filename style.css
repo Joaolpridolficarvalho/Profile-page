@@ -17,8 +17,63 @@ body {
     top: 50%;
 }
 
+
 #About {
     position: fixed;
     top: 60%;
     left: 30%;
 }
+#Skills{
+    position: fixed;
+    top: 60%;
+    left: 40%;
+}
+
+#Projects{
+    position: fixed;
+    top: 60%;
+    left: 50%;
+}
+
+#Contact{
+    position: fixed;
+    top: 60%;
+    left: 60%;
+}
+#Cv{
+    position: fixed;
+    top: 60%;
+    left: 70%;
+}
+#Lupe{
+    position: fixed;
+    top: 57%;
+    left: 80%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
